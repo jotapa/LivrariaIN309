@@ -1,0 +1,6 @@
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\bin\Debug\lp1.exe.config
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\bin\Debug\lp1.exe
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\bin\Debug\lp1.pdb
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\obj\Debug\lp1.csprojResolveAssemblyReference.cache
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\obj\Debug\lp1.exe
+c:\users\lab enii.laben2\documents\visual studio 2013\Projects\lp1\lp1\obj\Debug\lp1.pdb
